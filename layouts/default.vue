@@ -1,9 +1,7 @@
 <template>
     <Nabvar class="mb-2" />
     <div class="
-        container 
-        bg-success 
-        text-white
+        container
         d-flex
         justify-content-center
         ">
@@ -14,6 +12,5 @@
 .container {
     padding: 1rem;
     min-height: 80vh;
-    border: 2px solid black;
 }
 </style>
